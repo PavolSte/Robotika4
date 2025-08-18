@@ -1,10 +1,13 @@
 # Robotika - 4. ročník
 
-## 1. Zadanie projektu
+## 1. Úvod
 
-V rámci tohto technického projektu máte za úlohu navrhnúť a implementovať riešenie podľa popisu nižšie. Toto zadanie preverí Vašu schopnosť aplikovať teoretické vedomosti na praktické inžinierske problémy.
+V rámci tohto predmetu bude samostatné vypracovanie technického projektu, kde vašou úlohou bude navrhnúť a implementovať riešenie podľa konkrétneho zadania.
+Toto zadanie preverí Vašu schopnosť aplikovať teoretické vedomosti na praktické inžinierske problémy.
 
-### Hlavnými cieľmi tohto projektu sú:
+### Hlavné ciele projektu
+
+Hlavnými cieľmi tohto projektu sú:
 
 * Vyvinúť funkčný prototyp, ktorý rieši zadaný problém
 * Aplikovať inžinierske princípy a metodiky
@@ -13,53 +16,18 @@ V rámci tohto technického projektu máte za úlohu navrhnúť a implementovať
 
 ### Požiadavky
 
-Vaše odovzdanie projektu musí obsahovať:
+Odovzdanie projektu musí obsahovať:
 
-* Podrobnú technickú správu - 4 až 6 strán textu vrátane obrázkov
-* Kompletnú technickú dokumentáciu vrátane diagramov a schém
-* Funkčný prototyp
+* Podrobnú technickú správu - dokumentácia v rozsahu 4 až 6 strán textu vrátane obrázkov, obsahujúcu diagramy a schémy
+* Funkčný fyzický prototyp robota
 * Zdrojový kód
-Prezentačné materiály pre záverečnú demonštráciu
-Kritériá hodnotenia
-Váš projekt bude hodnotený na základe:
+* Prezentačné materiály pre záverečnú demonštráciu
 
-Technickej presnosti a funkčnosti
-Inovatívnosti a kreativity
-Kvality dokumentácie
-Prezentačných a komunikačných zručností
-Dodržiavania inžinierskych štandardov"
-Časový harmonogram
-"Vezmite na vedomie nasledujúce dôležité termíny:
+### Časový harmonogram vypracovania projektu:
 
-Odovzdanie návrhu projektu: [dátum]
-Kontrola postupu: [dátum]
-Konečný termín odovzdania: [dátum]
-Prezentácie projektov: [dátum]"
+nasledujúce dôležité termíny:
 
-
-## Hodnotiace kritériá
-
-Pri hodnotení projektov budú zohľadnené nasledovné oblasti:
-
-1) Priebežná práca na projekte
-* Pravidelnosť práce počas celého obdobia
-* Aktivita na konzultáciách
-* Dodržiavanie čiastkových termínov
-2) Obsahová a formálna stránka dokumentácie
-* Jasnosť a zrozumiteľnosť textu
-* Logická štruktúra dokumentu
-* Správnosť použitej terminológie
-* Dodržiavanie formálnych náležitostí
-3) Splnenie cieľov projektu
-* Miera naplnenia stanovených cieľov
-* Súlad praktickej realizácie s dokumentáciou
-4) Kvalita praktickej časti
-* Funkčnosť a spoľahlivosť modelu/riešenia
-* Kvalita dizajnu a spracovania
-* Originalita a inovatívnosť riešenia
-5) Prezentácia a obhajoba projektu
-* Zrozumiteľnosť prezentácie
-* Schopnosť reagovať na otázky
-* Celkový dojem z prezentácie
-
-
+Odovzdanie návrhu projektu: DD.MM.YYYY
+Kontrola postupu: priebežne každý týždeň na vyučovacích hodinách
+Konečný termín odovzdania: DD.MM.YYYY
+Prezentácie projektov: DD.MM.YYYY
