@@ -25,16 +25,12 @@ Odovzdanie projektu musí obsahovať:
 * Zdrojový kód
 * Prezentačné materiály pre záverečnú demonštráciu
 
-### Časový harmonogram vypracovania projektu:
+### Časový harmonogram vypracovania projektu
 
-Nasledujúce míľiky pri vypracovaní zadania:
+Zoznam dôležitých termínov:
 
-Úvodná hodina:
-
-Kontrola postupu: priebežne každý týždeň na vyučovacích hodinách
-
-Konečný termín odovzdania: DD.MM.YYYY
-
-Odovzdanie návrhu projektu: DD.MM.YYYY
-
-Prezentácie projektov: DD.MM.YYYY
+Úvodná hodina: **DD.MM.YYYY**  
+Kontrola postupu: **priebežne každý týždeň na vyučovacích hodinách**  
+Konečný termín odovzdania: **DD.MM.YYYY**  
+Odovzdanie návrhu projektu: **DD.MM.YYYY**  
+Prezentácie projektov: **DD.MM.YYYY**  
