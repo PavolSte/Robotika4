@@ -9,7 +9,7 @@ V rámci tohto technického projektu máte za úlohu navrhnúť a implementovať
 * Vyvinúť funkčný prototyp, ktorý rieši zadaný problém
 * Aplikovať inžinierske princípy a metodiky
 * Zdokumentovať proces návrhu a technické rozhodnutia
-* Prezentovať vaše zistenia a predviesť vaše riešenie"
+* Prezentovať vaše zistenia a predviesť vaše riešenie
 
 ### Požiadavky
 
@@ -19,9 +19,9 @@ Vaše odovzdanie projektu musí obsahovať:
 * Kompletnú technickú dokumentáciu vrátane diagramov a schém
 * Funkčný prototyp
 * Zdrojový kód
-Prezentačné materiály pre záverečnú demonštráciu"
+Prezentačné materiály pre záverečnú demonštráciu
 Kritériá hodnotenia
-"Váš projekt bude hodnotený na základe:
+Váš projekt bude hodnotený na základe:
 
 Technickej presnosti a funkčnosti
 Inovatívnosti a kreativity
