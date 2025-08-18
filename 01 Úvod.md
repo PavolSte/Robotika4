@@ -27,12 +27,14 @@ Odovzdanie projektu musí obsahovať:
 
 ### Časový harmonogram vypracovania projektu:
 
-nasledujúce dôležité termíny:
+Nasledujúce míľiky pri vypracovaní zadania:
 
-Odovzdanie návrhu projektu: DD.MM.YYYY
+Úvodná hodina:
 
 Kontrola postupu: priebežne každý týždeň na vyučovacích hodinách
 
 Konečný termín odovzdania: DD.MM.YYYY
+
+Odovzdanie návrhu projektu: DD.MM.YYYY
 
 Prezentácie projektov: DD.MM.YYYY
