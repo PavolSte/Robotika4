@@ -30,6 +30,9 @@ Odovzdanie projektu musí obsahovať:
 nasledujúce dôležité termíny:
 
 Odovzdanie návrhu projektu: DD.MM.YYYY
+
 Kontrola postupu: priebežne každý týždeň na vyučovacích hodinách
+
 Konečný termín odovzdania: DD.MM.YYYY
+
 Prezentácie projektov: DD.MM.YYYY
