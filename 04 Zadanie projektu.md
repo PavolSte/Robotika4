@@ -22,19 +22,12 @@ Dôležité bude dostatočne sa synchronizovať a určiť si jasné rozhranie me
 
 :arrow_right:	Na programovanie robotického modulu použite offline verziu oficiálneho softvéru [SPIKE](https://spike.legoeducation.com/). :snake: Programovacím jazykom bude jazyk Python. 
 
-:arrow_right:	Na vytvorenie manuálu pre stavbu robota použite softvér [Studio](https://www.bricklink.com/v2/main.page). Odovzdaná verzia bude vo formáte PDF. Odovzdaný dokument bude v natívnom formáte a vo formáte PDF.
+:arrow_right:	Na vytvorenie manuálu pre stavbu robota použite softvér [Studio](https://www.bricklink.com/v2/main.page).
 
-:arrow_right: Pre vytvorenie projektovej dokumentácie použite niektorú z dostupných textových editorov (Microsoft Word, OpenOffice, LibreOffice). Odovzdaný dokument bude v natívnom formáte a vo formáte PDF.
+:arrow_right: Pre vytvorenie projektovej dokumentácie použite niektorú z dostupných textových editorov (Microsoft Word, OpenOffice, LibreOffice).
 
 
 ---
-
-# Odovzdanie projektu Tabuľka 
-
-...čo treba odovzdať a v akom formáte:
-
-Formát
- Odovzdaný program bude fo formáte .llsp3
 
 
 
