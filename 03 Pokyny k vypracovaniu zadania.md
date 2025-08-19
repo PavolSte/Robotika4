@@ -1,4 +1,4 @@
-# 03 Zadanie projektu
+# 03 Pokyny k vypracovaniu zadania
 
 ## Práca v tímoch
 
