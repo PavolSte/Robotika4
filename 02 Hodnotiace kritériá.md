@@ -2,6 +2,8 @@
 
 ### Hodnotené Oblasti
 
+---
+
 Pri hodnotení projektov budú zohľadnené nasledovné oblasti:
 
 * **Priebežná práca na projekte**
@@ -28,6 +30,8 @@ Pri hodnotení projektov budú zohľadnené nasledovné oblasti:
   * Zrozumiteľnosť prezentácie
   * Schopnosť reagovať na otázky
   * Celkový dojem z prezentácie
+
+---
 
 ### Požiadavky na jednotlivé známky
 
