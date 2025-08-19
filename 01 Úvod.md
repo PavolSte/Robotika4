@@ -1,5 +1,5 @@
 
-## 1. Úvod
+# 1. Úvod
 
 Cieľom predmetu je naučiť sa aplikovať **teoretické vedomosti pri riešení praktických inžinierskych problémov** a zároveň **naučiť sa efektívne pracovať v tímoch**.
 
@@ -9,7 +9,7 @@ Budete rozdelený do niekoľkých skupín a **každá skupina dostane jednu čas
 
 ---
 
-### Hlavné ciele predmetu
+## Hlavné ciele predmetu
 
 Hlavnými cieľmi tohto predmetu sú:
 
@@ -21,7 +21,7 @@ Hlavnými cieľmi tohto predmetu sú:
 
 ---
 
-### Požiadavky
+## Požiadavky
 
 Odovzdanie projektu musí obsahovať:
 
@@ -35,7 +35,7 @@ Tieto časti budú odovzdané za každú skupinu samostatne s tým, že vo výsl
 
 ---
 
-### Časový harmonogram vypracovania projektu
+## Časový harmonogram vypracovania projektu
 
 Zoznam dôležitých termínov:
 
