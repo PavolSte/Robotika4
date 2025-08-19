@@ -43,10 +43,10 @@ Tieto časti budú odovzdané za každú skupinu samostatne s tým, že vo výsl
 Zoznam dôležitých termínov:
 
   :calendar: Úvodná hodina: **DD.MM.YYYY**  
-  :calendar: Úvodná hodina: Kontrola postupu: **priebežne každý týždeň na vyučovacích hodinách**  
-  :calendar: Úvodná hodina: Konečný termín odovzdania: **DD.MM.YYYY**  
-  :calendar: Úvodná hodina: Odovzdanie návrhu projektu: **DD.MM.YYYY**  
-  :calendar: Úvodná hodina: Prezentácie projektov: **DD.MM.YYYY** 
+  :calendar: Kontrola postupu: **Priebežne každý týždeň na vyučovacích hodinách**  
+  :calendar: Odovzdanie projektovej dokumentácie na kontrolu: **DD.MM.YYYY**  
+  :calendar: Odovzdanie dokumentácie, projektu a demonštrácia funkčnosti: **DD.MM.YYYY**  
+  
 
 ---
 
