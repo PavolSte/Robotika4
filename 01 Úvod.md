@@ -11,8 +11,9 @@ Toto zadanie preverí Vašu schopnosť aplikovať teoretické vedomosti pri rie�
 
 Hlavnými cieľmi tohto projektu sú:
 
-* Vyvinúť funkčný prototyp, ktorý rieši zadaný problém
+* Kooperácia v rámci viacerích skupín
 * Aplikovať inžinierske princípy a metodiky
+* Vyvinúť funkčný prototyp, ktorý rieši zadaný problém
 * Zdokumentovať proces návrhu a technické rozhodnutia
 * Prezentovať vaše zistenia a predviesť vaše riešenie
 
