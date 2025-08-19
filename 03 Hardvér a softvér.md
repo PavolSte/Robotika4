@@ -4,7 +4,7 @@
 
 :arrow_right:	Každá skupina bude mať k dispozícii jeden box LEGO Education SPIKE s mikrokontrolerom, senzormi, motormi a konštrukčnými prvkami.
 
-:low_battery:	Dbajte na to, aby sa batéria počas vypracovania nevybila.
+:low_battery:	**Dbajte na to, aby sa batéria počas vypracovania nevybila**.
 
 :arrow_right:	Kontajnery na bloky a podávacia plošina bude k dispozícii podľa potreby.
 
