@@ -1,6 +1,6 @@
-## 02 Hodnotiace kritériá
+# 02 Hodnotiace kritériá
 
-### Hodnotené Oblasti
+## Hodnotené Oblasti
 
 ---
 
@@ -33,7 +33,7 @@ Pri hodnotení projektov budú zohľadnené nasledovné oblasti:
 
 ---
 
-### Požiadavky na jednotlivé známky
+## Požiadavky na jednotlivé známky
 
 * **Známka 1 - výborný**  
   
