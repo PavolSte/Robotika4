@@ -47,3 +47,6 @@ Zoznam dôležitých termínov:
 
 ---
 
+![OBR](https://github.com/PavolSte/Robotika4/blob/6da3d8b84a4a5f98cedb898538a41fcd599b4a40/S%C3%BAbory/Kooper%C3%A1cia%20a%20moduly.jpg)
+
+---
