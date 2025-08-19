@@ -79,5 +79,8 @@ Pri hodnotení projektov budú zohľadnené nasledovné oblasti:
   * Práca vykazuje vážne nedostatky a nespĺňa základné požiadavky  
   * Známka 5 sa stanoví aj v prípade, ak pri spracovaní práce boli porušené autorské práva, práva duševného vlastníctva alebo bolo preukázané, že práca je plagiát  
  
+---
+
+![OBR](https://github.com/PavolSte/Robotika4/blob/e073388a8c19ffc05fd8d4c5596d85004a5cbf05/S%C3%BAbory/Hodnotenie.jpg) 
 
 ---
