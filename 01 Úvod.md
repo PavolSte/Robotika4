@@ -39,11 +39,11 @@ Tieto časti budú odovzdané za každú skupinu samostatne s tým, že vo výsl
 
 Zoznam dôležitých termínov:
 
-:calendar:Úvodná hodina: **DD.MM.YYYY**  
-:calendar:Úvodná hodina: Kontrola postupu: **priebežne každý týždeň na vyučovacích hodinách**  
-:calendar:Úvodná hodina: Konečný termín odovzdania: **DD.MM.YYYY**  
-:calendar:Úvodná hodina: Odovzdanie návrhu projektu: **DD.MM.YYYY**  
-:calendar:Úvodná hodina: Prezentácie projektov: **DD.MM.YYYY** 
+  :calendar: Úvodná hodina: **DD.MM.YYYY**  
+  :calendar: Úvodná hodina: Kontrola postupu: **priebežne každý týždeň na vyučovacích hodinách**  
+  :calendar: Úvodná hodina: Konečný termín odovzdania: **DD.MM.YYYY**  
+  :calendar: Úvodná hodina: Odovzdanie návrhu projektu: **DD.MM.YYYY**  
+  :calendar: Úvodná hodina: Prezentácie projektov: **DD.MM.YYYY** 
 
 ---
 
