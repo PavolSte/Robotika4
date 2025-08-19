@@ -2,8 +2,6 @@
 
 ## Hodnotené Oblasti
 
----
-
 Pri hodnotení projektov budú zohľadnené nasledovné oblasti:
 
 :white_check_mark:	**Priebežná práca na projekte**
