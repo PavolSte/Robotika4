@@ -12,7 +12,7 @@
 
 ## Softvér
 
-:arrow_right:	Na programovanie robotického modulu použite offline verziu oficiálneho softvéru [SPIKE](https://spike.legoeducation.com/). :snake: Programovacím jazykom bude jazyk Python. 
+:arrow_right:	Na programovanie robotického modulu použite **offline** verziu oficiálneho softvéru [SPIKE](https://spike.legoeducation.com/). :snake: Programovacím jazykom bude jazyk Python. 
 
 :arrow_right:	Na vytvorenie manuálu pre stavbu robota použite softvér [Studio](https://www.bricklink.com/v2/main.page).
 
