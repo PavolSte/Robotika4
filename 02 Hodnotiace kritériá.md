@@ -6,27 +6,27 @@
 
 Pri hodnotení projektov budú zohľadnené nasledovné oblasti:
 
-* **Priebežná práca na projekte**
+:white_check_mark:	**Priebežná práca na projekte**
   * Pravidelnosť práce počas celého obdobia
   * Aktivita na konzultáciách
   * Dodržiavanie čiastkových termínov
 
-* **Obsahová a formálna stránka dokumentácie**
+:white_check_mark:	**Obsahová a formálna stránka dokumentácie**
   * Jasnosť a zrozumiteľnosť textu
   * Logická štruktúra dokumentu
   * Správnosť použitej terminológie
   * Dodržiavanie formálnych náležitostí
 
-* **Splnenie cieľov projektu**
+:white_check_mark:	**Splnenie cieľov projektu**
   * Miera naplnenia stanovených cieľov
   * Súlad praktickej realizácie s dokumentáciou
 
-* **Kvalita praktickej časti**
+:white_check_mark:	**Kvalita praktickej časti**
   * Funkčnosť a spoľahlivosť modelu/riešenia
   * Kvalita dizajnu a spracovania
   * Originalita a inovatívnosť riešenia
 
-* **Prezentácia a obhajoba projektu**
+:white_check_mark:	**Prezentácia a obhajoba projektu**
   * Zrozumiteľnosť prezentácie
   * Schopnosť reagovať na otázky
   * Celkový dojem z prezentácie
@@ -35,7 +35,7 @@ Pri hodnotení projektov budú zohľadnené nasledovné oblasti:
 
 ## Požiadavky na jednotlivé známky
 
-* **Známka 1 - výborný**  
+:one:	**Známka 1 - výborný**  
   
   * Študent pracoval na projekte systematicky počas celého obdobia  
   * Textová časť práce je po obsahovej a formálnej stránke spracovaná nadštandardným spôsobom  
@@ -44,7 +44,7 @@ Pri hodnotení projektov budú zohľadnené nasledovné oblasti:
   * Fyzický model/riešenie funguje s vysokou spoľahlivosťou  
   * Práca prináša originálne a inovatívne riešenia  
 
-* **Známka 2 - chválitebný**  
+2️⃣ **Známka 2 - chválitebný**  
   
   * Projekt je spracovaný na veľmi dobrej úrovni bez výrazných nedostatkov  
   * Ciele práce sú splnené v plnom rozsahu  
@@ -53,7 +53,7 @@ Pri hodnotení projektov budú zohľadnené nasledovné oblasti:
   * Študent vie identifikovať potenciálne možnosti a riziká implementácie do praxe  
   * Práca vykazuje samostatnosť a tvorivý prístup  
   
-* **Známka 3 - dobrý**  
+:three:	 **Známka 3 - dobrý**  
   
   * Projekt je spracovaný štandardným spôsobom  
   * Drobné nedostatky neovplyvňujú celkové výsledky práce  
@@ -62,7 +62,7 @@ Pri hodnotení projektov budú zohľadnené nasledovné oblasti:
   * Praktická časť je funkčná s menšími nedostatkami  
   * Dokumentácia obsahuje všetky potrebné časti, ale s menšími nepresnosťami  
   
-* **Známka 4 - dostatočný**  
+4️⃣	**Známka 4 - dostatočný**  
   
   * Projekt je spracovaný uspokojivo  
   * Obsahuje výraznejšie nedostatky, ktoré však neovplyvňujú základné výsledky práce  
@@ -71,7 +71,7 @@ Pri hodnotení projektov budú zohľadnené nasledovné oblasti:
   * Dokumentácia je spracovaná s formálnymi aj obsahovými nedostatkami  
   * Študent preukázal len základné porozumenie problematike  
   
-* **Známka 5 - nedostatočný**  
+5️⃣ **Známka 5 - nedostatočný**  
   
   * Projekt je spracovaný nevyhovujúcim spôsobom  
   * Ciele projektu nie sú splnené  
