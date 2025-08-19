@@ -3,30 +3,41 @@
 
 ## 1. Úvod
 
-V rámci tohto predmetu bude samostatné vypracovanie technického projektu, kde vašou úlohou bude navrhnúť a implementovať riešenie podľa konkrétneho zadania.
+Cieľom predmetu je naučiť sa aplikovať **teoretické vedomosti pri riešení praktických inžinierskych problémov** a zároveň **naučiť sa efektívne pracovať v tímoch**.
 
-Cieľom zadania je využiť aplikovanie teoretických vedomostí pri riešení praktických inžinierskych problémoch.
+Vašou úlohou bude **navrhnúť a implementovať riešenie** podľa konkrétneho zadania. Vypracovanie projektu bude prebiehať **samostatne na hodinách robotiky**.
+
+Budete rozdelený do niekoľkých skupín a **každá skupina dostane jednu časť zadania**. Po vypracovaní všetkých častí zadania jednotlivými skupinami **vznikne funkčný celok**.
 
 ![OBR](https://github.com/PavolSte/Robotika4/blob/774790f67407568f7290203d6387f627d8a5bf44/S%C3%BAbory/Robot%20%C3%BAvod.jpg) 
 
-### Hlavné ciele projektu
+---
 
-Hlavnými cieľmi tohto projektu sú:
+### Hlavné ciele predmetu
+
+Hlavnými cieľmi tohto predmetu sú:
 
 * Kooperácia v rámci viacerích skupín
-* Aplikovať inžinierske princípy a metodiky
-* Vyvinúť funkčný prototyp, ktorý rieši zadaný problém
-* Zdokumentovať proces návrhu a technické rozhodnutia
-* Prezentovať vaše zistenia a predviesť vaše riešenie
+* Aplikovanie inžinierskych princípov a metodiky
+* Vyvinutie funkčného prototypu, ktorý rieši zadaný problém
+* Zdokumentovanie procesu návrhu a technických rozhodnutí
+* Prezentovať zistenia a predviesť riešenie
+
+---
 
 ### Požiadavky
 
 Odovzdanie projektu musí obsahovať:
 
-* Podrobnú technickú správu - dokumentácia v rozsahu 4 až 6 strán textu vrátane obrázkov, obsahujúcu diagramy a schémy
+* Technickú správu - dokumentácia v rozsahu 6 až 8 strán textu vrátane obrázkov, obsahujúcu diagramy a schémy, prípadne fotografie
 * Funkčný fyzický prototyp robota
-* Zdrojový kód
-* Prezentačné materiály pre záverečnú demonštráciu
+* Presným návodom na zostavenie robota (nie je súčasťou technickej správy)
+* Zdrojový kód funkčného robota
+* Prezentáciu materiály pre záverečnú demonštráciu
+
+Tieto časti budú odovzdané za každú skupinu samostatne s tým, že vo výsledku budú trvoriť jeden logický celok.
+
+---
 
 ### Časový harmonogram vypracovania projektu
 
@@ -36,4 +47,7 @@ Zoznam dôležitých termínov:
 Kontrola postupu: **priebežne každý týždeň na vyučovacích hodinách**  
 Konečný termín odovzdania: **DD.MM.YYYY**  
 Odovzdanie návrhu projektu: **DD.MM.YYYY**  
-Prezentácie projektov: **DD.MM.YYYY**  
+Prezentácie projektov: **DD.MM.YYYY** 
+
+---
+
