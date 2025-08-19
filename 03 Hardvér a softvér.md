@@ -16,4 +16,6 @@
 
 :arrow_right:	Na vytvorenie manuálu pre stavbu robota použite softvér [Studio](https://www.bricklink.com/v2/main.page).
 
-:arrow_right: Pre vytvorenie projektovej dokumentácie použite niektorú z dostupných textových editorov (Microsoft Word, OpenOffice, LibreOffice).
+:arrow_right: Pre vytvorenie projektovej dokumentácie použite niektorý z dostupných textových editorov (Microsoft Word, OpenOffice, LibreOffice a pod.).
+
+:arrow_right: Pre vytvorenie prezentácie použite niektorý z dostupných editorov (Microsoft PowerPoint, OpenOffice, LibreOffice a pod.).
