@@ -9,5 +9,5 @@ Každá skupina odovzdá nasledovné výstupy pre konkrétny robotický modul:
 | **Prezentácia** - rozsah 10 minút + 2 minúty na otázky a odpovede| natívny formát + PDF verzia|
 | **Návod na zostavenie robota**| .io + PDF verzia|
 | **Zdrojový kód funkčného robota**| .llsp3 + PDF verzia|
-| **Video zobrazujúce funk4ný modul**| .mp4 alebo iný štandardný video formát|
+| **Video zobrazujúce funkčný modul**| .mp4 alebo iný štandardný video formát|
 | **Funkčný fyzický prototyp robota** | k nahliadnutiu počas prezentácie |
