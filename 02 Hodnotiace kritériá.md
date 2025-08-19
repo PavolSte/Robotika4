@@ -81,3 +81,5 @@ Pri hodnotení projektov budú zohľadnené nasledovné oblasti:
   * Práca vykazuje vážne nedostatky a nespĺňa základné požiadavky  
   * Známka 5 sa stanoví aj v prípade, ak pri spracovaní práce boli porušené autorské práva, práva duševného vlastníctva alebo bolo preukázané, že práca je plagiát  
  
+
+---
