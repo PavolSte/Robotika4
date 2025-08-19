@@ -1,4 +1,4 @@
-# 03 Pokyny k vypracovaniu zadania
+# 03 Pokyny k vypracovaniu
 
 ## Práca v tímoch
 
