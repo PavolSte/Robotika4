@@ -9,7 +9,9 @@
  -->
 
 
-# Skupina č. 1
+# Skupina č. 1 - Modul ...
+
+Meno Priezvisko, Meno Priezvisko, Meno Priezvisko...
 
 | Dátum | Aktuálny stav projektu |
 |---------|---------|
@@ -18,7 +20,7 @@
 
 ---
 
-# Skupina č. 2
+# Skupina č. 2 - Modul ...
 
 | Dátum | Aktuálny stav projektu |
 |---------|---------|
@@ -27,7 +29,7 @@
 
 ---
 
-# Skupina č. 3
+# Skupina č. 3 - Modul ...
 
 | Dátum | Aktuálny stav projektu |
 |---------|---------|
@@ -36,7 +38,7 @@
 
 ---
 
-# Skupina č. 4
+# Skupina č. 4 - Modul ...
 
 | Dátum | Aktuálny stav projektu |
 |---------|---------|
