@@ -1,4 +1,4 @@
-# 04 Zadanie projektu
+# 06 Zadanie projektu
 
 Vašou úlohou je zostrojiť a naprogramovať štyri samostatné robotické časti, ktoré budú na seba nadväzovať a postupne vykonajú manipulačné úkony na základe popisu nižšie.  
 
