@@ -5,7 +5,7 @@
 
 V rámci tohto predmetu bude samostatné vypracovanie technického projektu, kde vašou úlohou bude navrhnúť a implementovať riešenie podľa konkrétneho zadania.
 
-Toto zadanie preverí Vašu schopnosť aplikovať teoretické vedomosti pri riešení praktických inžinierskych problémoch.
+Cieľom zadania je využiť aplikovanie teoretických vedomostí pri riešení praktických inžinierskych problémoch.
 
 ### Hlavné ciele projektu
 
