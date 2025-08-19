@@ -21,13 +21,14 @@ Cieľom je vytvorenie robotického systému pozostávajúceho z jednotlivých mo
    - Spolupráca na vytvorení celkového robotického systému
    
 
-:arrow_right: **Konečný cieľ**
-   - Integrácia všetkých troch modulov
-   - Vytvorenie funkčného robotického systému
+:arrow_right: **Výsledok**
+   - Integrácia všetkých troch modulov  
+   - Vytvorenie funkčného robotického systému  
 
-:bangbang:**Dôležité: Je povinné si viesť záznam o pracovnom postupe počas celého vypracovania projektu!**:bangbang:	
 
----
+:warning: **Upozornenie:**
+**Je povinné si viesť záznam o pracovnom postupe počas celého vypracovania projektu!**
+
 
 ![OBR](https://github.com/PavolSte/Robotika4/blob/1b65b0bcf1099f90b109693c251e48ce891f7ede/S%C3%BAbory/Postup%20pri%20vypracovan%C3%AD.jpg)  
 
