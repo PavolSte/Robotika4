@@ -6,22 +6,22 @@ Cieľom je vytvorenie robotického systému pozostávajúceho z jednotlivých mo
 
 **Rozdelenie práce:**
 
-**Študenti sa rozdelia do troch pracovných skupín**
+:arrow_right: **Študenti sa rozdelia do troch pracovných skupín**
    - Každá skupina bude zodpovedná za jeden robotický modul
    - Všetci študenti budú zaradení do niektorej z týchto troch skupín
 
-**Pracovné skupiny**
+:arrow_right: **Pracovné skupiny**
    - Skupina 1: Práca na prvom robotickom module
    - Skupina 2: Práca na druhom robotickom module
    - Skupina 3: Práca na treťom robotickom module
 
-**Úloha každej skupiny**
+:arrow_right: **Úloha každej skupiny**
    - Získanie riešenia pre konkrétny robotický modul
    - Vývoj a implementácia pridelenej časti systému
    - Spolupráca na vytvorení celkového robotického systému
    
 
-**Konečný cieľ**
+:arrow_right: **Konečný cieľ**
    - Integrácia všetkých troch modulov
    - Vytvorenie funkčného robotického systému
 
