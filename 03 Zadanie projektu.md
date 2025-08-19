@@ -1,12 +1,12 @@
 # 03 Zadanie projektu
 
-# Práca v tímoch
+## Práca v tímoch
 
 Cieľom je vytvorenie robotického systému pozostávajúceho z jednotlivých modulov. Všetci študenti sa rozdelia do troch pracovných skupín a každá zo skupín bude pracovať na získaní riešenia pre konkrétny robotický modul.
 
-# Cieľom je vytvorenie robotického systému pozostávajúceho z jednotlivých modulov
+## Cieľom je vytvorenie robotického systému pozostávajúceho z jednotlivých modulov
 
-## Rozdelenie práce:
+**Rozdelenie práce:**
 
 **1. Študenti sa rozdelia do troch pracovných skupín**
    - Každá skupina bude zodpovedná za jeden robotický modul
