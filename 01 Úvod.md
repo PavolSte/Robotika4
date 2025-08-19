@@ -1,14 +1,11 @@
 
 # 01 Úvod
 
-:white_check_mark: Cieľom predmetu je naučiť sa aplikovať **teoretické vedomosti pri riešení praktických  
-inžinierskych problémov** a zároveň **naučiť sa efektívne pracovať v tímoch**.
+:white_check_mark: Cieľom predmetu je naučiť sa aplikovať **teoretické vedomosti pri riešení praktických inžinierskych problémov** a zároveň **naučiť sa efektívne pracovať v tímoch**.
 
-:white_check_mark: Vašou úlohou bude **navrhnúť a implementovať riešenie** podľa konkrétneho zadania.  
-Vypracovanie projektu bude prebiehať **samostatne na hodinách robotiky**.
+:white_check_mark: Vašou úlohou bude **navrhnúť a implementovať riešenie** podľa konkrétneho zadania. Vypracovanie projektu bude prebiehať **samostatne na hodinách robotiky**.
 
-:white_check_mark: Budete rozdelený do niekoľkých skupín a **každá skupina dostane jednu časť zadania**.  
-Po vypracovaní všetkých častí zadania jednotlivými skupinami **vznikne funkčný celok**.
+:white_check_mark: Budete rozdelený do niekoľkých skupín a **každá skupina dostane jednu časť zadania**. Po vypracovaní všetkých častí zadania jednotlivými skupinami **vznikne funkčný celok**.
 
 ---
 
