@@ -1,6 +1,7 @@
 
 # Robotika - 4. ročník
 
+
 ## 1. Úvod
 
 Cieľom predmetu je naučiť sa aplikovať **teoretické vedomosti pri riešení praktických inžinierskych problémov** a zároveň **naučiť sa efektívne pracovať v tímoch**.
