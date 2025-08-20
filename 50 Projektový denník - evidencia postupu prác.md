@@ -1,15 +1,5 @@
-<!-- 
-# Skupina č. X
-
-| Dátum | Aktuálny stav projektu |
-|---------|---------|
-| 1.1.2025 | Tu budeme písať postupný progres s vypracovaním zadania... <br> nový riadok |
-| ...| ...|
-| ... | ... |
- -->
-
-
-# Skupina č. 1 - Modul ...
+<details>
+<summary><h1>Skupina č. 1 - Modul 1</h1></summary>
 
 Meno Priezvisko, Meno Priezvisko, Meno Priezvisko...
 
@@ -18,31 +8,82 @@ Meno Priezvisko, Meno Priezvisko, Meno Priezvisko...
 | ...| ...|
 | ... | ... |
 
+</details>  
+
 ---
 
-# Skupina č. 2 - Modul ...
+<details>
+<summary><h1>Skupina č. 2 - Modul 2</h1></summary>
+
+Meno Priezvisko, Meno Priezvisko, Meno Priezvisko...
 
 | Dátum | Aktuálny stav projektu |
 |---------|---------|
+| ...| ...|
 | ... | ... |
-| ... | ... |
+
+</details>  
 
 ---
 
-# Skupina č. 3 - Modul ...
+<details>
+<summary><h1>Skupina č. 3 - Modul 3</h1></summary>
+
+Meno Priezvisko, Meno Priezvisko, Meno Priezvisko...
 
 | Dátum | Aktuálny stav projektu |
 |---------|---------|
+| ...| ...|
 | ... | ... |
-| ... | ... |
+
+</details>  
 
 ---
 
-# Skupina č. 4 - Modul ...
+<details>
+<summary><h1>Skupina č. 4 - Modul 4</h1></summary>
+
+Meno Priezvisko, Meno Priezvisko, Meno Priezvisko...
 
 | Dátum | Aktuálny stav projektu |
 |---------|---------|
-| ... | ... |
+| ...| ...|
 | ... | ... |
 
+</details>  
+
 ---
+
+
+<!-- 
+
+----- Komentáre -----
+
+# Skupina č. X
+
+| Dátum | Aktuálny stav projektu |
+|---------|---------|
+| 1.1.2025 | Tu budeme písať postupný progres s vypracovaním zadania... <br> nový riadok |
+| ...| ...|
+| ... | ... |
+
+ 
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section.
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
+ 
+  -->
+
+
