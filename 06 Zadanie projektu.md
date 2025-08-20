@@ -52,14 +52,21 @@ Na konci po ukončení manipulačného procesu budú jednotlivé časti v nasled
 
 ## Manipulačný proces
 
-Nasledujúca tabuľka opisuje postup manipulačného procesu 
+Nasledujúca tabuľka opisuje postup manipulačného procesu. 
 
 | Modul 1 | | Modul 2 | | Modul 3 | | Modul 4 |
 |---------|---------|---------|---------|---------|---------|---------|
 | ![OBR](https://github.com/PavolSte/Robotika4/blob/d5d17f7a90e56e8c825b775b20b6f948949a6b17/S%C3%BAbory/Robot%20-%20modul%201.png)| :arrow_right: |![OBR](https://github.com/PavolSte/Robotika4/blob/d5d17f7a90e56e8c825b775b20b6f948949a6b17/S%C3%BAbory/Robot%20-%20modul%202.png)| :arrow_right:|![OBR](https://github.com/PavolSte/Robotika4/blob/d5d17f7a90e56e8c825b775b20b6f948949a6b17/S%C3%BAbory/Robot%20-%20modul%203.png)| :arrow_right: |![OBR](https://github.com/PavolSte/Robotika4/blob/d5d17f7a90e56e8c825b775b20b6f948949a6b17/S%C3%BAbory/Robot%20-%20modul%204.png)|
-|Prekladanie kontajnerov zo zásobníka na definované miesto.|| Prevzatie všetkých kontajnerov a vyradenie plných. ||Vloženie LEGO blokov príslušnej farby do kontajnerov.||Umiestnenie plných kontajnerov na seba podľa farby vloženého LEGO bloku.|
+|**Prekladanie kontajnerov zo zásobníka na definované miesto.**|| **Prevzatie všetkých kontajnerov a vyradenie plných.** ||**Vloženie LEGO blokov príslušnej farby do kontajnerov**.||**Umiestnenie plných kontajnerov na seba podľa farby vloženého LEGO bloku.**|
 
 ---
+
+## Pracovná skupina a jej zodpovednosti
+
+Nasledujúci obrázok definuje hranice zodpovedností každej pracovnej skupiny za konkrétne úlohy v rámci modulu a taktiež zodpovednosť za rozhranie medzi jednotlivými modulmi.
+
+![OBR](https://github.com/PavolSte/Robotika4/blob/63939abf4e43cf46bd3833eb674c175c22780bb0/S%C3%BAbory/Moduly%20rozhranie%20a%20skupiny.png)
+
 
 Moduly
 
