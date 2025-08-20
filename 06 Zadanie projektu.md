@@ -1,10 +1,28 @@
 # 06 Zadanie projektu
 
-:dart: Vašou úlohou je zostrojiť a naprogramovať štyri samostatné robotické časti, ktoré budú na seba nadväzovať a postupne vykonajú manipulačné úkony na základe popisu nižšie.  
+:mag: Vašou úlohou je zostrojiť a naprogramovať štyri samostatné robotické časti, ktoré budú na seba nadväzovať a postupne vykonajú manipulačné úkony na základe popisu nižšie.  
 
-:mag: Každá skupina bude riešiť jeden modul.
+:mag: Každá skupina bude mať na starosti vyriešiť kompletne úlohu pre jeden modul.
 
-:twisted_rightwards_arrows: Dôležité bude dostatočne sa synchronizovať a určiť si jasné rozhranie medzi jednotlivými modulmi - predávanie si objektov vo vami zadefinovanom poradí, stave, a podobne.
+:mag: Dôležité bude dostatočne sa synchronizovať a určiť si jasné rozhranie medzi jednotlivými modulmi - predávanie si objektov vo vami zadefinovanom poradí, stave, a podobne.
+
+---
+
+## Popis zadania
+
+V tomto projekte je úlohou zostrojiť manipulačného robota pozostávajúceho zo štyroch na seba nadväzujúcich modulov. Označenie modulov bude Modul 1, Modul 2, Modul 3 a Modul 4.
+
+Každý modul má jasne zadefinované úlohy a rozhranie s predchádzajúcim, resp. nasledujúcim modulom.
+
+Manipulovanými predmetmi budú nasledovné súčiastky:
+
+
+Inicializačný stav:
+
+* Kontajnery
+
+
+
 
 ---
 
