@@ -10,14 +10,10 @@ Dôležité bude dostatočne sa synchronizovať a určiť si jasné rozhranie me
 
 Principiálna schéma zadania:
 
-| Modul 1 | :arrow_right: | Modul 2 | :arrow_right:| Modul 3 | :arrow_right:| Modul 4 |
+| Modul 1 | | Modul 2 | | Modul 3 | | Modul 4 |
 |---------|---------|---------|---------|---------|---------|---------|
-| **Technická správa** - dokumentácia v rozsahu 6 až 8 strán textu vrátane <br> obrázkov, obsahujúcu diagramy a schémy, prípadne fotografie| natívny formát + PDF verzia|asdad|asdad|aaa|aaa||
-
-
-
-![OBR](https://github.com/PavolSte/Robotika4/blob/774790f67407568f7290203d6387f627d8a5bf44/S%C3%BAbory/Robot%20%C3%BAvod.jpg) 
-
+| ![OBR](https://github.com/PavolSte/Robotika4/blob/d5d17f7a90e56e8c825b775b20b6f948949a6b17/S%C3%BAbory/Robot%20-%20modul%201.png)| :arrow_right: |![OBR](https://github.com/PavolSte/Robotika4/blob/d5d17f7a90e56e8c825b775b20b6f948949a6b17/S%C3%BAbory/Robot%20-%20modul%202.png)| :arrow_right:|![OBR](https://github.com/PavolSte/Robotika4/blob/d5d17f7a90e56e8c825b775b20b6f948949a6b17/S%C3%BAbory/Robot%20-%20modul%203.png)| :arrow_right: |![OBR](https://github.com/PavolSte/Robotika4/blob/d5d17f7a90e56e8c825b775b20b6f948949a6b17/S%C3%BAbory/Robot%20-%20modul%204.png)|
+|:jigsaw: Vezmi postupne kontajnery uložené na sebe a ulož ich na zadefinované miesto pre Modul 2. <br> :jigsaw: Výška kontajnerov môže byť v rozmedzí 3-10 |||||||
 
 ---
 
