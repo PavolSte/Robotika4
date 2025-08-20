@@ -1,5 +1,5 @@
 
-# 01 Úvod
+# 01 Rozsah projektu
 
 :white_check_mark: Cieľom predmetu je naučiť sa aplikovať **teoretické vedomosti pri riešení praktických inžinierskych problémov** a zároveň **naučiť sa efektívne pracovať v tímoch**.
 
