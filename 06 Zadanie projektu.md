@@ -101,10 +101,10 @@ Nasledujúci obrázok definuje hranice zodpovedností každej pracovnej skupiny 
 
 </details>  
 
+---
+
 <details>
 <summary><h1>Modul 2</h1></summary>
-
----
 
 | Modul 2 | Rozhranie | Modul 3 |
 |---------|---------|---------|
@@ -128,7 +128,7 @@ Nasledujúci obrázok definuje hranice zodpovedností každej pracovnej skupiny 
 ---
 
 <details>
-<summary><h1>Modul 3</h1></summary>
+<summary><h1>Modul 4</h1></summary>
 
 | Modul 3 | Rozhranie | Modul 4 |
 |---------|---------|---------|
