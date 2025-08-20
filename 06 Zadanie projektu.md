@@ -136,6 +136,7 @@ Jednotlivé časti majú nasledovné rozmery:
 |---------|---------|---------|
 |![OBR](https://github.com/PavolSte/Robotika4/blob/93bd99a4c2555599828b87db60ac99490e789f3b/S%C3%BAbory/Kontajner%20rozmery.png)|![OBR](https://github.com/PavolSte/Robotika4/blob/93bd99a4c2555599828b87db60ac99490e789f3b/S%C3%BAbory/Blok%20rozmery.png)|![OBR](https://github.com/PavolSte/Robotika4/blob/93bd99a4c2555599828b87db60ac99490e789f3b/S%C3%BAbory/LEGO%20blok%20rozmery.png)|
 
+Poznámka: Kontajner má rozmery zhodné s LEGO blokom 4x8.
 
 </details>  
 
