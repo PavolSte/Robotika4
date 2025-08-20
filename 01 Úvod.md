@@ -41,7 +41,7 @@ Zoznam dôležitých termínov:
 
   :calendar: Úvodná hodina: **03.09.2025**  
   :calendar: Kontrola postupu: **Priebežne každý týždeň na vyučovacích hodinách**  
-  :calendar: Odovzdanie projektovej dokumentácie na kontrolu: **26.11.2025**
+  :calendar: Odovzdanie projektovej dokumentácie na kontrolu: **26.11.2025**  
   :calendar: Odovzdanie dokumentácie, projektu a demonštrácia funkčnosti: **03.12.2025**  
   
 Celková dĺžka trvania 14 týždňov.
