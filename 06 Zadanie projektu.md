@@ -132,13 +132,13 @@ Nasledujúci obrázok definuje hranice zodpovedností každej pracovnej skupiny 
 
 Jednotlivé časti majú nasledovné rozmery:
 
-
+| Kontajner | Blok | LEGO blok |
+|---------|---------|---------|
+|![OBR](https://github.com/PavolSte/Robotika4/blob/93bd99a4c2555599828b87db60ac99490e789f3b/S%C3%BAbory/Kontajner%20rozmery.png)|![OBR](https://github.com/PavolSte/Robotika4/blob/93bd99a4c2555599828b87db60ac99490e789f3b/S%C3%BAbory/Blok%20rozmery.png)|![OBR](https://github.com/PavolSte/Robotika4/blob/93bd99a4c2555599828b87db60ac99490e789f3b/S%C3%BAbory/LEGO%20blok%20rozmery.png)|
 
 
 </details>  
 
-...... presné rozmery kontanejra , bloku a Lego bloku
-obrázok, cad z Revitu, Visio nákres... 
 
 
 
