@@ -17,6 +17,8 @@ Každý modul má jasne zadefinované úlohy a rozhranie s predchádzajúcim, re
 Manipulovanými predmetmi budú nasledovné súčiastky:
 
 
+
+
 Inicializačný stav:
 
 * Kontajnery
