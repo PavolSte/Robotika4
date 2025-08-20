@@ -69,20 +69,16 @@ Meno Priezvisko, Meno Priezvisko, Meno Priezvisko...
 
  
 <details>
+<summary><h1>Skupina č. 1 - Modul 1</h1></summary>
 
-<summary>Tips for collapsed sections</summary>
+Meno Priezvisko, Meno Priezvisko, Meno Priezvisko...
 
-### You can add a header
+| Dátum | Aktuálny stav projektu |
+|---------|---------|
+| ...| ...|
+| ... | ... |
 
-You can add text within a collapsed section.
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-```
-
-</details>
+</details>  
  
   -->
 
