@@ -29,7 +29,7 @@ Cieľom je vytvorenie robotického systému pozostávajúceho z jednotlivých mo
 
 ---
 
-![OBR](https://github.com/PavolSte/Robotika4/blob/1b65b0bcf1099f90b109693c251e48ce891f7ede/S%C3%BAbory/Postup%20pri%20vypracovan%C3%AD.jpg)  
+![OBR](https://github.com/PavolSte/Robotika4/blob/1855f82df5039965b85100dda419446b1da57155/S%C3%BAbory/Postup%20pri%20vypracovan%C3%AD.jpg)
 
 ---
 
