@@ -12,7 +12,7 @@
 
 Manipulovanými predmetmi budú nasledovné súčiastky:
 
-![OBR](https://github.com/PavolSte/Robotika4/blob/ba3ff122d41be76362bb5a5ff0af58d629b18f46/S%C3%BAbory/Objekty%20popis.png)  
+![OBR](https://github.com/PavolSte/Robotika4/blob/24d6ecba4b28521af8cdc5ca7f0a78b00e6cdc7d/S%C3%BAbory/Objekty%20popis.png)  
 
 ---
 
