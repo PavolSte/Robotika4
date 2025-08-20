@@ -90,7 +90,7 @@ Nasledujúci obrázok definuje hranice zodpovedností každej pracovnej skupiny 
 ---
 
 <details>
-<summary><h1>Modul 1</h1></summary>
+<summary><h1>Modul 1 - Modul 2</h1></summary>
 
 ---
 
@@ -104,7 +104,7 @@ Nasledujúci obrázok definuje hranice zodpovedností každej pracovnej skupiny 
 ---
 
 <details>
-<summary><h1>Modul 2</h1></summary>
+<summary><h1>Modul 2 - Modul 3</h1></summary>
 
 | Modul 2 | Rozhranie | Modul 3 |
 |---------|---------|---------|
@@ -116,28 +116,26 @@ Nasledujúci obrázok definuje hranice zodpovedností každej pracovnej skupiny 
 ---
 
 <details>
-<summary><h1>Modul 3</h1></summary>
+<summary><h1>Modul 3 - Modul 4</h1></summary>
 
 | Modul 3 | Rozhranie | Modul 4 |
 |---------|---------|---------|
 | ![OBR](https://github.com/PavolSte/Robotika4/blob/d5d17f7a90e56e8c825b775b20b6f948949a6b17/S%C3%BAbory/Robot%20-%20modul%203.png)| |![OBR](https://github.com/PavolSte/Robotika4/blob/d5d17f7a90e56e8c825b775b20b6f948949a6b17/S%C3%BAbory/Robot%20-%20modul%204.png)|
-|:green_square: Prevzatie prázdneho kontajnera z miesta, kde ho uložil Modul 2<br> :green_square: Zistenie farby vo vnútri prázdneho kontajnera<br> :green_square: Vloženie LEGO bloku do kontajnera podľa príslušnej farby :green_square: Umiestnenie kontajnera na dohodnuté miesto pre Modul 3|:green_square: Zadefinovať miesto ukladania plných kontajnerov.|:green_square: Prevziať plný kontajnery z dohodnutého miesta, kde ich umiestnil Modul 3. :green_square: Uložiť kontajner na miesto podľa príslušnej farby |
+|:green_square: Prevzatie prázdneho kontajnera z miesta, kde ho uložil Modul 2<br> :green_square: Zistenie farby vo vnútri prázdneho kontajnera<br> :green_square: Vloženie LEGO bloku do kontajnera podľa príslušnej farby :green_square: Umiestnenie kontajnera na dohodnuté miesto pre Modul 3|:green_square: Zadefinovať miesto ukladania plných kontajnerov.|:green_square: Prevziať plný kontajnery z dohodnutého miesta, kde ich umiestnil Modul 3. :green_square: Uložiť kontajner na miesto podľa príslušnej farby :green_square: Kontajnery rovnakej farby sú uložené na sebe.|
 
 </details>  
 
 ---
 
 <details>
-<summary><h1>Modul 4</h1></summary>
+<summary><h1>Technické parametre objektov</h1></summary>
 
-| Modul 3 | Rozhranie | Modul 4 |
-|---------|---------|---------|
-| ![OBR](https://github.com/PavolSte/Robotika4/blob/d5d17f7a90e56e8c825b775b20b6f948949a6b17/S%C3%BAbory/Robot%20-%20modul%203.png)| |![OBR](https://github.com/PavolSte/Robotika4/blob/d5d17f7a90e56e8c825b775b20b6f948949a6b17/S%C3%BAbory/Robot%20-%20modul%204.png)|
-|:green_square: Prevzatie prázdneho kontajnera z miesta, kde ho uložil Modul 2<br> :green_square: Zistenie farby vo vnútri prázdneho kontajnera<br> :green_square: Vloženie LEGO bloku do kontajnera podľa príslušnej farby :green_square: Umiestnenie kontajnera na dohodnuté miesto pre Modul 3|:green_square: Zadefinovať miesto ukladania plných kontajnerov.|:green_square: Prevziať plný kontajnery z dohodnutého miesta, kde ich umiestnil Modul 3. :green_square: Uložiť kontajner na miesto podľa príslušnej farby |
+Jednotlivé časti majú nasledovné rozmery:
 
-</details>
 
----
+
+
+</details>  
 
 ...... presné rozmery kontanejra , bloku a Lego bloku
 obrázok, cad z Revitu, Visio nákres... 
