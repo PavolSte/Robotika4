@@ -2,7 +2,7 @@
 
 ## Hardvér
 
-:arrow_right:	Každá skupina bude mať k dispozícii jeden box LEGO Education SPIKE s mikrokontrolerom, senzormi, motormi a konštrukčnými prvkami.
+:arrow_right:	Každá skupina bude mať k dispozícii jeden box [LEGO Education SPIKE](https://education.lego.com/en-us/products/lego-education-spike-prime-set/45678/) s mikrokontrolerom, senzormi, motormi a konštrukčnými prvkami.
 
 :low_battery:	**Dbajte na to, aby sa batéria počas vypracovania nevybila**.
 
