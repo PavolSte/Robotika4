@@ -24,7 +24,7 @@ Označenie modulov bude Modul 1, Modul 2, Modul 3 a Modul 4.
 
 Každý modul má jasne zadefinované úlohy a rozhranie s predchádzajúcim, resp. nasledujúcim modulom.
 
-![OBR](https://github.com/PavolSte/Robotika4/blob/def21490ef4afb40dbcc1a2e3b730dfbb1ff6ade/S%C3%BAbory/Moduly%20a%20rozhranie.png)  
+![OBR](https://github.com/PavolSte/Robotika4/blob/ca3e4b46263caa9f762950f71f97d3eefd3a1557/S%C3%BAbory/Moduly%20a%20rozhranie.png)  
 
 ---
 
