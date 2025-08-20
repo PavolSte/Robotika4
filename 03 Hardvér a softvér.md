@@ -19,3 +19,9 @@
 :arrow_right: Pre vytvorenie projektovej dokumentácie použite niektorý z dostupných textových editorov (Microsoft Word, OpenOffice, LibreOffice a pod.).
 
 :arrow_right: Pre vytvorenie prezentácie použite niektorý z dostupných editorov (Microsoft PowerPoint, OpenOffice, LibreOffice a pod.).
+
+---
+
+![OBR](https://github.com/PavolSte/Robotika4/blob/f28b41b259a8da2fb75b20ab0b11bc5c0a994a3d/S%C3%BAbory/Hardv%C3%A9r%20a%20softv%C3%A9r.png)
+
+---
