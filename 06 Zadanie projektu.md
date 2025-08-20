@@ -97,7 +97,7 @@ Nasledujúci obrázok definuje hranice zodpovedností každej pracovnej skupiny 
 | Modul 1 | Rozhranie | Modul 2 |
 |---------|---------|---------|
 | ![OBR](https://github.com/PavolSte/Robotika4/blob/d5d17f7a90e56e8c825b775b20b6f948949a6b17/S%C3%BAbory/Robot%20-%20modul%201.png)| :arrow_right: |![OBR](https://github.com/PavolSte/Robotika4/blob/d5d17f7a90e56e8c825b775b20b6f948949a6b17/S%C3%BAbory/Robot%20-%20modul%202.png)|
-|:green_square: Preloženie kontajnerov umiestnených na sebe, uloženie kontajnerov na zadefinované miesto pre Modul 2. <br> :green_square: Poček kontajnerov uložených na sebe môže byť v rozmedzí 4-8 <br> :green_square: Kontajnery nesmú stratiť pri manipulácii vložený obsah - blok alebo farebnú značku. |Zadefinovať miesto ukladania kontajnerov.|:green_square: Prevziať kontajnery z miesta, kde ich umiestnil Modul 1. |
+|:green_square: Preloženie kontajnerov umiestnených na sebe na zadefinované miesto pre Modul 2. <br> :green_square: Počet kontajnerov uložených na sebe môže byť v rozmedzí 4-8 kusov <br> :green_square: Kontajnery nesmú počas manipulácie stratiť vložený obsah - blok alebo farebnú značku. |:green_square: Zadefinovať miesto ukladania kontajnerov.|:green_square: Prevziať kontajnery z miesta, kde ich umiestnil Modul 1. |
 
 </details>  
 
