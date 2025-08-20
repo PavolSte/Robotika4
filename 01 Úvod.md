@@ -44,7 +44,7 @@ Zoznam dôležitých termínov:
   :calendar: Odovzdanie projektovej dokumentácie na kontrolu: **26.11.2025**  
   :calendar: Odovzdanie dokumentácie, projektu a demonštrácia funkčnosti: **03.12.2025**  
   
-Celková dĺžka trvania 14 týždňov.
+Celková dĺžka trvania predmetu je 14 týždňov.
 
 ---
 
