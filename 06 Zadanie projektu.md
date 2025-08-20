@@ -10,6 +10,13 @@ Dôležité bude dostatočne sa synchronizovať a určiť si jasné rozhranie me
 
 Principiálna schéma zadania:
 
+| Modul 1 | :arrow_right: | Modul 2 | :arrow_right:| Modul 3 | :arrow_right:| Modul 4 |
+|---------|---------|---------|---------|---------|---------|---------|
+| **Technická správa** - dokumentácia v rozsahu 6 až 8 strán textu vrátane <br> obrázkov, obsahujúcu diagramy a schémy, prípadne fotografie| natívny formát + PDF verzia|asdad|asdad|aaa|aaa||
+
+
+
+![OBR](https://github.com/PavolSte/Robotika4/blob/774790f67407568f7290203d6387f627d8a5bf44/S%C3%BAbory/Robot%20%C3%BAvod.jpg) 
 
 
 ---
