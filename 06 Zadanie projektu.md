@@ -137,9 +137,10 @@ Nasledujúci obrázok definuje hranice zodpovedností každej pracovnej skupiny 
 
 </details>
 
+---
 
-
-presné rozmery kontanejra , bloku a Lego bloku
+...... presné rozmery kontanejra , bloku a Lego bloku
+obrázok, cad z Revitu, Visio nákres... 
 
 
 
