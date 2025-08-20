@@ -1,7 +1,7 @@
 # 06 Zadanie projektu
 
 :mag: Vašou úlohou je zostrojiť a naprogramovať štyri samostatné robotické časti, ktoré budú na seba nadväzovať a postupne vykonajú manipulačné úkony na základe popisu nižšie.  
-
+![OBR](https://github.com/PavolSte/Robotika4/blob/def21490ef4afb40dbcc1a2e3b730dfbb1ff6ade/S%C3%BAbory/Moduly%20a%20rozhranie.png)
 :mag: Každá skupina bude mať na starosti vyriešiť kompletne úlohu pre jeden modul.
 
 :mag: Dôležité bude dostatočne sa synchronizovať a určiť si jasné rozhranie medzi jednotlivými modulmi - predávanie si objektov vo vami zadefinovanom poradí, stave, a podobne.
