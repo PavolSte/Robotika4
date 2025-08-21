@@ -16,7 +16,7 @@
 ---
 
 <details>
-<summary><h2>Softvér</h2></summary>
+<summary><h2>Softvér</h2></summary>  
 
 :arrow_right:	Na programovanie robotického modulu použite **offline** verziu oficiálneho softvéru [SPIKE](https://education.lego.com/en-us/downloads/spike-app/software/). :snake: Programovacím jazykom bude jazyk **Python**. 
 
