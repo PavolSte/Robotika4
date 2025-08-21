@@ -38,6 +38,8 @@ Pri hodnotení projektov budú zohľadnené nasledovné oblasti:
 <details>
 <summary><h2>Požiadavky na jednotlivé známky</h2></summary>
 
+Definície jednotlivých hodnotiacich známok:
+
 :one:	**Známka 1 - výborný**  
   
   * Študent pracoval na projekte systematicky počas celého obdobia  
@@ -47,7 +49,7 @@ Pri hodnotení projektov budú zohľadnené nasledovné oblasti:
   * Fyzický model/riešenie funguje s vysokou spoľahlivosťou  
   * Práca prináša originálne a inovatívne riešenia  
 
-2️⃣ **Známka 2 - chválitebný**  
+:two: **Známka 2 - chválitebný**  
   
   * Projekt je spracovaný na veľmi dobrej úrovni bez výrazných nedostatkov  
   * Ciele práce sú splnené v plnom rozsahu  
@@ -65,7 +67,7 @@ Pri hodnotení projektov budú zohľadnené nasledovné oblasti:
   * Praktická časť je funkčná s menšími nedostatkami  
   * Dokumentácia obsahuje všetky potrebné časti, ale s menšími nepresnosťami  
   
-4️⃣	**Známka 4 - dostatočný**  
+:four:	**Známka 4 - dostatočný**  
   
   * Projekt je spracovaný uspokojivo  
   * Obsahuje výraznejšie nedostatky, ktoré však neovplyvňujú základné výsledky práce  
@@ -74,7 +76,7 @@ Pri hodnotení projektov budú zohľadnené nasledovné oblasti:
   * Dokumentácia je spracovaná s formálnymi aj obsahovými nedostatkami  
   * Študent preukázal len základné porozumenie problematike  
   
-5️⃣ **Známka 5 - nedostatočný**  
+:five: **Známka 5 - nedostatočný**  
   
   * Projekt je spracovaný nevyhovujúcim spôsobom  
   * Ciele projektu nie sú splnené  
