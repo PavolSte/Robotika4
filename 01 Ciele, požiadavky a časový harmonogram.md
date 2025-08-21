@@ -1,17 +1,15 @@
 # 01 Ciele, požiadavky a časový harmonogram
 
 <details>
-<summary><h1>01 Ciele, požiadavky a časový harmonogram</h1></summary>
+<summary><h2>Charakteristika predmetu</h2></summary>
 
-:white_check_mark: Cieľom predmetu je naučiť sa aplikovať **teoretické vedomosti pri riešení praktických inžinierskych problémov** a zároveň **naučiť sa efektívne pracovať v tímoch**.
+:white_check_mark: Naučiť sa aplikovať **teoretické vedomosti pri riešení praktických inžinierskych problémov** a zároveň **naučiť sa efektívne pracovať v tímoch**.
 
 :white_check_mark: Vašou úlohou bude **navrhnúť a implementovať riešenie** podľa konkrétneho zadania.
 
 :white_check_mark: Vypracovanie projektu bude prebiehať **samostatne na hodinách robotiky**.  
 
 :white_check_mark: Budete rozdelený do niekoľkých skupín a **každá skupina dostane jednu časť zadania**. Po vypracovaní všetkých častí zadania jednotlivými skupinami **vznikne funkčný celok**.
-
-</details>
 
 ---
 
@@ -24,12 +22,15 @@ Hlavnými cieľmi tohto predmetu sú:
   :bulb: Vyvinutie funkčného prototypu, ktorý rieši zadaný problém  
   :bulb: Zdokumentovanie procesu návrhu a technických rozhodnutí  
   :bulb: Prezentovať zistenia a predviesť riešenie  
-  
+ 
+</details>
+
 ---
 
-## Požiadavky
+<details>
+<summary><h2>Požiadavky</h2></summary>
 
-Odovzdanie projektu musí obsahovať:
+Odovzdanie projektu bude obsahovať nasledovné časti:
   
  :page_facing_up: **Technickú správu** - dokumentácia v rozsahu 6 až 8 strán textu vrátane obrázkov, obsahujúcu diagramy a schémy, prípadne fotografie  
  :page_facing_up: **Funkčný fyzický prototyp robota**  
@@ -37,7 +38,7 @@ Odovzdanie projektu musí obsahovať:
  :page_facing_up: **Zdrojový kód funkčného robota**  
  :page_facing_up: **Prezentáciu materiály pre záverečnú prezentáciu**  
   
-Tieto časti budú odovzdané za každú skupinu samostatne s tým, že vo výsledku budú trvoriť jeden logický celok.
+Tieto časti budú odovzdané za **každú skupinu samostatne** s tým, že vo výsledku budú trvoriť jeden logický celok.
 
 ---
 
