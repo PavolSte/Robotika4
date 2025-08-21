@@ -110,7 +110,7 @@ Nasledujúci obrázok definuje hranice zodpovedností každej pracovnej skupiny 
 | Modul 2 | Rozhranie | Modul 3 |
 |---------|---------|---------|
 | ![OBR](https://github.com/PavolSte/Robotika4/blob/d5d17f7a90e56e8c825b775b20b6f948949a6b17/S%C3%BAbory/Robot%20-%20modul%202.png)| |![OBR](https://github.com/PavolSte/Robotika4/blob/d5d17f7a90e56e8c825b775b20b6f948949a6b17/S%C3%BAbory/Robot%20-%20modul%203.png)|
-|:green_square: Prevzatie kontajnera z miesta, kde ho uložil Modul 1<br> :green_square: Verifikácia, či je kontajner naplnený blokom <br> :green_square: Ak je naplnený, tak ho vyradiť, ak je prázdny, posunúť ho pre Modulu 3 |:green_square: Zadefinovať miesto ukladania prádznych kontajnerov.|:green_square: Prevziať prázdne kontajnery z dohodnutého miesta, kde ich umiestnil Modul 2. |
+|:green_square: Prevzatie kontajnera z miesta, kde ho uložil Modul 1<br> :green_square: Verifikácia, či je kontajner naplnený blokom <br> :green_square: Ak je naplnený, tak ho vyradiť, ak je prázdny, posunúť ho pre Modulu 3 |:green_square: Zadefinovať miesto ukladania prázdnych kontajnerov.|:green_square: Prevziať prázdne kontajnery z dohodnutého miesta, kde ich umiestnil Modul 2. |
 
 </details>  
 
@@ -122,7 +122,7 @@ Nasledujúci obrázok definuje hranice zodpovedností každej pracovnej skupiny 
 | Modul 3 | Rozhranie | Modul 4 |
 |---------|---------|---------|
 | ![OBR](https://github.com/PavolSte/Robotika4/blob/d5d17f7a90e56e8c825b775b20b6f948949a6b17/S%C3%BAbory/Robot%20-%20modul%203.png)| |![OBR](https://github.com/PavolSte/Robotika4/blob/d5d17f7a90e56e8c825b775b20b6f948949a6b17/S%C3%BAbory/Robot%20-%20modul%204.png)|
-|:green_square: Prevzatie prázdneho kontajnera z miesta, kde ho uložil Modul 2<br> :green_square: Zistenie farby vo vnútri prázdneho kontajnera<br> :green_square: Vloženie LEGO bloku do kontajnera podľa príslušnej farby <br> :green_square: Umiestnenie kontajnera na dohodnuté miesto pre Modul 3|<br>:green_square: Zadefinovať miesto ukladania plných kontajnerov.|<br>:green_square: Prevziať plný kontajnery z dohodnutého miesta, kde ich umiestnil Modul 3. <br>:green_square: Uložiť kontajner na miesto podľa príslušnej farby <br> :green_square: Kontajnery rovnakej farby sú uložené na sebe.|
+|:green_square: Prevzatie prázdneho kontajnera z miesta, kde ho uložil Modul 2<br> :green_square: Zistenie farby vo vnútri prázdneho kontajnera<br> :green_square: Vloženie LEGO bloku do kontajnera podľa príslušnej farby <br> :green_square: Umiestnenie kontajnera na dohodnuté miesto pre Modul 3|<br>:green_square: Zadefinovať miesto ukladania jednotlivých plných kontajnerov.|<br>:green_square: Prevziať plné kontajnery po jednom z dohodnutého miesta, kde ich umiestnil Modul 3. <br>:green_square: Uložiť každý kontajner na miesto podľa príslušnej farby <br> :green_square: Kontajnery rovnakej farby sú uložené na sebe.|
 
 </details>  
 
