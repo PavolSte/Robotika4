@@ -59,7 +59,7 @@ Na začiatku pres spustením celého procesu budú jednotlivé časti va nasledo
 
 Na konci po ukončení manipulačného procesu budú jednotlivé časti v nasledovnom stave:
 
-:blue_square:	 Kontajnery s vloženými LEGO blokmi budú uložené na sebe podľa farby, čiže kontajnery s červenými LEGO blokmi budú na sebe, s modrými taktieš ale na inom mieste, a podobne
+:green_square:		 Kontajnery s vloženými LEGO blokmi budú uložené na sebe podľa farby, čiže kontajnery s červenými LEGO blokmi budú na sebe, s modrými taktieš ale na inom mieste, a podobne
 
 </details> 
 
