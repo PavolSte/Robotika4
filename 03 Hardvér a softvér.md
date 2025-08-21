@@ -12,7 +12,7 @@
 :arrow_right:	Kontajnery na bloky a podávacia plošina bude k dispozícii podľa potreby.  
 
 </details>  
-
+  
 ---
 
 <details>
