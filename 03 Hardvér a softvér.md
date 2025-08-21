@@ -1,6 +1,7 @@
 # 03 Hardvér a softvér
 
-## Hardvér
+<details>
+<summary><h2>Hardvér</h2></summary>
 
 :arrow_right: Počítač s nainštalovaným softvérom SPIKE
 
@@ -10,9 +11,12 @@
 
 :arrow_right:	Kontajnery na bloky a podávacia plošina bude k dispozícii podľa potreby.
 
+</details>
+
 ---
 
-## Softvér
+<details>
+<summary><h2>Softvér</h2></summary>
 
 :arrow_right:	Na programovanie robotického modulu použite **offline** verziu oficiálneho softvéru [SPIKE](https://education.lego.com/en-us/downloads/spike-app/software/). :snake: Programovacím jazykom bude jazyk **Python**. 
 
@@ -27,3 +31,5 @@
 ![OBR](https://github.com/PavolSte/Robotika4/blob/f28b41b259a8da2fb75b20ab0b11bc5c0a994a3d/S%C3%BAbory/Hardv%C3%A9r%20a%20softv%C3%A9r.png)
 
 ---
+
+</details>
