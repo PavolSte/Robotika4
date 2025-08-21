@@ -110,7 +110,7 @@ Nasledujúci obrázok definuje hranice zodpovedností každej pracovnej skupiny 
 | Modul 2 | Rozhranie | Modul 3 |
 |---------|---------|---------|
 | ![OBR](https://github.com/PavolSte/Robotika4/blob/d5d17f7a90e56e8c825b775b20b6f948949a6b17/S%C3%BAbory/Robot%20-%20modul%202.png)| |![OBR](https://github.com/PavolSte/Robotika4/blob/d5d17f7a90e56e8c825b775b20b6f948949a6b17/S%C3%BAbory/Robot%20-%20modul%203.png)|
-|:green_square: Prevzatie kontajnera z miesta, kde ho uložil Modul 1<br> :green_square: Verifikácia, či kontajner nie je naplnený blokom <br> :green_square: Ak je naplnený, tak ho vyradiť, ak je prázdny, posunúť ho Modulu 3 |:green_square: Zadefinovať miesto ukladania prádznych kontajnerov.|:green_square: Prevziať prázdne kontajnery z dohodnutého miesta, kde ich umiestnil Modul 2. |
+|:green_square: Prevzatie kontajnera z miesta, kde ho uložil Modul 1<br> :green_square: Verifikácia, či je kontajner naplnený blokom <br> :green_square: Ak je naplnený, tak ho vyradiť, ak je prázdny, posunúť ho pre Modulu 3 |:green_square: Zadefinovať miesto ukladania prádznych kontajnerov.|:green_square: Prevziať prázdne kontajnery z dohodnutého miesta, kde ich umiestnil Modul 2. |
 
 </details>  
 
