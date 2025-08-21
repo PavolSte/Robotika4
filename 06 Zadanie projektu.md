@@ -40,13 +40,13 @@ Každý modul má jasne zadefinované úlohy a rozhranie s predchádzajúcim, re
 
 Na začiatku pres spustením celého procesu budú jednotlivé časti va nasledovnom stave:
 
-* Kontajnery sú uložené na sebe v počte 4 - 8 kusov
-* Počiatočné miesto uloženia je zadefinované skupinou zodpovednou za Modul 1
-* Kontajnery môžu byť v dvoch stavoch:
+:green_square:	 Kontajnery sú uložené na sebe v počte 4 - 8 kusov
+:green_square: Počiatočné miesto uloženia je zadefinované skupinou zodpovednou za Modul 1
+:green_square: Kontajnery môžu byť v dvoch stavoch:
   * prázdne s farebnou značkou vo vnútri
   * s vloženým blokom
-* Farebná značka bude mať vždy jednu z farieb dostupných LEGO blokov
-* LEGO bloky, ktoré sa budú vkladať do kontajnerov budú uložené v zásobníku ľubovoľne podľa potreby skupiny zodpovednej za Modul 3
+:green_square: Farebná značka bude mať vždy jednu z farieb dostupných LEGO blokov
+:green_square: LEGO bloky, ktoré sa budú vkladať do kontajnerov budú uložené v zásobníku ľubovoľne podľa potreby skupiny zodpovednej za Modul 3
 
 </details>  
 
@@ -58,7 +58,7 @@ Na začiatku pres spustením celého procesu budú jednotlivé časti va nasledo
 
 Na konci po ukončení manipulačného procesu budú jednotlivé časti v nasledovnom stave:
 
-* Kontajnery s vloženými LEGO blokmi budú uložené na sebe podľa farby, čiže kontajnery s červenými LEGO blokmi budú na sebe, s modrými taktieš ale na inom mieste, a podobne
+:blue_square:	 Kontajnery s vloženými LEGO blokmi budú uložené na sebe podľa farby, čiže kontajnery s červenými LEGO blokmi budú na sebe, s modrými taktieš ale na inom mieste, a podobne
 
 </details> 
 
