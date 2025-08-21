@@ -131,7 +131,7 @@ Nasledujúci obrázok definuje hranice zodpovedností každej pracovnej skupiny 
 <details>
 <summary><h1>Technické parametre objektov</h1></summary>
 
-Jednotlivé časti majú nasledovné rozmery:
+Jednotlivé časti majú nasledovné rozmery, uvedené miery sú v milimetroch:
 
 | Kontajner | Blok | LEGO blok |
 |---------|---------|---------|
