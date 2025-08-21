@@ -1,5 +1,6 @@
 
-# 01 Rozsah projektu
+<details>
+<summary><h1>01 Ciele, požiadavky a časový harmonogram</h1></summary>
 
 :white_check_mark: Cieľom predmetu je naučiť sa aplikovať **teoretické vedomosti pri riešení praktických inžinierskych problémov** a zároveň **naučiť sa efektívne pracovať v tímoch**.
 
@@ -8,6 +9,8 @@
 :white_check_mark: Vypracovanie projektu bude prebiehať **samostatne na hodinách robotiky**.  
 
 :white_check_mark: Budete rozdelený do niekoľkých skupín a **každá skupina dostane jednu časť zadania**. Po vypracovaní všetkých častí zadania jednotlivými skupinami **vznikne funkčný celok**.
+
+</details>
 
 ---
 
