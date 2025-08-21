@@ -139,6 +139,8 @@ Jednotlivé časti majú nasledovné rozmery, uvedené miery sú v milimetroch:
 
 Poznámka: Kontajner má rozmery zhodné s LEGO blokom 4x8.
 
+![OBR](https://github.com/PavolSte/Robotika4/blob/42a5e728e8b4addb132461695f619066ff59f4a6/S%C3%BAbory/Kontajner%20a%20LEGO%20rozmer.png)
+
 </details>  
 
 
