@@ -1,6 +1,8 @@
 # 02 Hodnotiace kritériá
 
-## Hodnotené Oblasti
+
+<details>
+<summary><h2>Hodnotené Oblasti</h2></summary>
 
 Pri hodnotení projektov budú zohľadnené nasledovné oblasti:
 
@@ -29,9 +31,12 @@ Pri hodnotení projektov budú zohľadnené nasledovné oblasti:
   * Schopnosť reagovať na otázky
   * Celkový dojem z prezentácie
 
+</details>
+
 ---
 
-## Požiadavky na jednotlivé známky
+<details>
+<summary><h2>Požiadavky na jednotlivé známky</h2></summary>
 
 :one:	**Známka 1 - výborný**  
   
@@ -82,5 +87,7 @@ Pri hodnotení projektov budú zohľadnené nasledovné oblasti:
 ---
 
 ![OBR](https://github.com/PavolSte/Robotika4/blob/e073388a8c19ffc05fd8d4c5596d85004a5cbf05/S%C3%BAbory/Hodnotenie.jpg) 
+
+</details>
 
 ---
