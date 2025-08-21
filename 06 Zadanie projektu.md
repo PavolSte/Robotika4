@@ -42,9 +42,10 @@ Na začiatku pres spustením celého procesu budú jednotlivé časti va nasledo
 
 :green_square:	 Kontajnery sú uložené na sebe v počte 4 - 8 kusov  
 :green_square: Počiatočné miesto uloženia je zadefinované skupinou zodpovednou za Modul 1  
-:green_square: Kontajnery môžu byť v dvoch stavoch:  
+:green_square: Kontajnery môžu byť v dvoch stavoch:
   * prázdne s farebnou značkou vo vnútri  
-  * s vloženým blokom  
+  * s vloženým blokom
+
 :green_square: Farebná značka bude mať vždy jednu z farieb dostupných LEGO blokov  
 :green_square: LEGO bloky, ktoré sa budú vkladať do kontajnerov budú uložené v zásobníku ľubovoľne podľa potreby skupiny zodpovednej za Modul 3  
 
