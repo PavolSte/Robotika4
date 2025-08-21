@@ -9,9 +9,9 @@
 
 :low_battery:	**Dbajte na to, aby sa počas vypracovania nevybila batéria**.
 
-:arrow_right:	Kontajnery na bloky a podávacia plošina bude k dispozícii podľa potreby.
+:arrow_right:	Kontajnery na bloky a podávacia plošina bude k dispozícii podľa potreby.  
 
-</details>
+</details>  
 
 ---
 
@@ -24,7 +24,7 @@
 
 :arrow_right: Pre vytvorenie projektovej dokumentácie použite niektorý z dostupných textových editorov (Microsoft Word, OpenOffice, LibreOffice a pod.).
 
-:arrow_right: Pre vytvorenie prezentácie použite niektorý z dostupných editorov (Microsoft PowerPoint, OpenOffice, LibreOffice a pod.).
+:arrow_right: Pre vytvorenie prezentácie použite niektorý z dostupných editorov (Microsoft PowerPoint, OpenOffice, LibreOffice a pod.).  
 
 ---
 
