@@ -12,7 +12,7 @@
 <summary><h1>Manipulované objekty</h1></summary>
 
 
-Manipulovanými predmetmi budú nasledovné súčiastky:
+Manipulovanými predmetmi budú nasledovné objekty:
 
 ![OBR](https://github.com/PavolSte/Robotika4/blob/24d6ecba4b28521af8cdc5ca7f0a78b00e6cdc7d/S%C3%BAbory/Objekty%20popis.png)  
 
