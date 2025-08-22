@@ -7,6 +7,6 @@ Každá skupina odovzdá výstupy pre konkrétny robotický modul podľa požiad
 | Výstup | Formát |
 |---------|---------|
 | Modul 1| https://www.dropbox.com/request/WZWtE8gHLvmI7k7DNqIu|
-| Modul 2| link|
-| Modul 3| link|
-| Modul 4| link|
+| Modul 2| https://www.dropbox.com/request/ajmbu4BgmMbfDgCckBsK|
+| Modul 3| https://www.dropbox.com/request/nr4FzehGEuI4WbI7bHKj|
+| Modul 4| https://www.dropbox.com/request/2C9jSuO6JsEY8zf6W0Nd|
