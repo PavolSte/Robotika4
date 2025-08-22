@@ -4,7 +4,7 @@ Každá skupina odovzdá výstupy pre konkrétny robotický modul podľa požiad
 
 
 
-| Výstup | Formát |
+| Číslo modulu | Link pre odovzdanie - [zoznam tu ](https://github.com/PavolSte/Robotika4/blob/cb2b863cfeca3c824dc691c1209d4537533b551e/05%20Pokyny%20k%20odovzdaniu.md) |
 |---------|---------|
 | Modul 1| [LINK](https://www.dropbox.com/request/WZWtE8gHLvmI7k7DNqIu)|
 | Modul 2| [LINK](https://www.dropbox.com/request/ajmbu4BgmMbfDgCckBsK)|
