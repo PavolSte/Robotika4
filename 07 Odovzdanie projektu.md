@@ -1,1 +1,11 @@
+# 07 Odovzdanie projektu
 
+Každá skupina odovzdá nasledovné výstupy pre konkrétny robotický modul:
+
+
+| Výstup | Formát |
+|---------|---------|
+| Modul 1| link|
+| Modul 2| link|
+| Modul 3| link|
+| Modul 4| link|
