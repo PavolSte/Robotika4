@@ -1,6 +1,6 @@
 # 07 Odovzdanie projektu
 
-Každá skupina odovzdá nasledovné výstupy pre konkrétny robotický modul:
+Každá skupina odovzdá výstupy pre konkrétny robotický modul podľa požiadaviek uvedených v časti  :
 
 
 | Výstup | Formát |
