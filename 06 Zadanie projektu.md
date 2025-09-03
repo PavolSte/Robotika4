@@ -46,7 +46,7 @@ Na začiatku pres spustením celého procesu budú jednotlivé časti va nasledo
   * prázdne s farebnou značkou vo vnútri  
   * s vloženým blokom
 
-:green_square: Farebná značka bude mať vždy jednu z farieb dostupných LEGO blokov  
+:green_square: Kontajner bude mať vždy jednu z farieb dostupných LEGO blokov  
 :green_square: LEGO bloky, ktoré sa budú vkladať do kontajnerov budú uložené v zásobníku ľubovoľne podľa potreby skupiny zodpovednej za Modul 3  
 
 </details>  
