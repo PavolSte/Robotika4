@@ -24,17 +24,21 @@ Cieľom je vytvorenie robotického systému pozostávajúceho z jednotlivých mo
    - Integrácia všetkých modulov do funkčného celku  
    - Prezentácia funkčného robotického systému  
 
-<h2>
+---
+
+<h3>
 :warning: Upozornenie 1:  
 Je povinné si viesť záznam o pracovnom postupe počas celého vypracovania projektu!
-</h2>
+</h3>
 
-<h2>
+<h3>
 :warning: Upozornenie 2:  
-Nezabudnite si výsledky vašej práce priebežne zálohovať! V opačnom prípade hrozí nesplenie zadania v požadovanom termíne.
-</h2>
+Nezabudnite si výsledky vašej práce priebežne zálohovať! V opačnom prípade hrozí strata dát a rizoko, že nestihnete zadanie odovzdať načas.  
 
----
+</h3>
+
+--- 
+
 
 ![OBR](https://github.com/PavolSte/Robotika4/blob/1855f82df5039965b85100dda419446b1da57155/S%C3%BAbory/Postup%20pri%20vypracovan%C3%AD.jpg)
 
