@@ -26,15 +26,13 @@ Cieľom je vytvorenie robotického systému pozostávajúceho z jednotlivých mo
 
 ---
 
-<h3>
-:warning: Upozornenie 1:  
-Je povinné si viesť záznam o pracovnom postupe počas celého vypracovania projektu.
-</h3>
+:warning: **Upozornenie 1:**  
+**Je povinné si viesť záznam o pracovnom postupe počas celého vypracovania projektu.**
 
-<h3>
-:warning: Upozornenie 2:  
-Nezabudnite si výsledky vašej práce priebežne zálohovať.  
-V opačnom prípade hrozí strata dát a rizoko, že nestihnete zadanie odovzdať načas.  
+
+:warning: **Upozornenie 2:**  
+**Nezabudnite si výsledky vašej práce priebežne zálohovať.**  
+**V opačnom prípade hrozí strata dát a rizoko, že nestihnete zadanie odovzdať načas.**  
 
 </h3>
 
