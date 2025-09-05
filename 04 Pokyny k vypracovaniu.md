@@ -24,8 +24,11 @@ Cieľom je vytvorenie robotického systému pozostávajúceho z jednotlivých mo
    - Integrácia všetkých modulov do funkčného celku  
    - Prezentácia funkčného robotického systému  
 
-:warning: **Upozornenie:**
+:warning: **Upozornenie 1:**
 **Je povinné si viesť záznam o pracovnom postupe počas celého vypracovania projektu!**
+
+:warning: **Upozornenie 2:**
+**Nezabudnite si výsledky vašej práce priebežne zálohovať! V opačnom prípade hrozí nesplenie zadania v požadovanom termíne.**
 
 ---
 
