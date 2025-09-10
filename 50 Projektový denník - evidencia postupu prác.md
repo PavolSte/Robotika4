@@ -15,7 +15,7 @@ Púček Ľubomír, Švejda Adam Ladislav, Čimbora Jakub, Holánik Martin Darius
 <details>
 <summary><h1>Skupina č. 2 - Modul 2</h1></summary>
 
-Meno Priezvisko, Meno Priezvisko, Meno Priezvisko...
+Polkoráb Samo, Michel Matúš, Kutlik Ondrej
 
 | Dátum | Aktuálny stav projektu |
 |---------|---------|
