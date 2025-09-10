@@ -1,7 +1,7 @@
 <details>
 <summary><h1>Skupina č. 1 - Modul 1</h1></summary>
 
-Meno Priezvisko, Meno Priezvisko, Meno Priezvisko...
+Púček Ľubomír, Švejda Adam Ladislav, Čimbora Jakub, Holánik Martin Darius  
 
 | Dátum | Aktuálny stav projektu |
 |---------|---------|
