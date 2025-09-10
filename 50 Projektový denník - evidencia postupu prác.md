@@ -12,7 +12,7 @@ Modul [cislo]
 
 | Dátum | Aktuálny stav projektu |
 |---------|---------|
-| ...| ...|
+| 10.9.2025 | Dneska sme stiahli potrebné programy na naprogramovanie robota a ďalej pracovali na mechanickom návrhu robota.|
 | ... | ... |
 
 </details>  
@@ -26,7 +26,7 @@ Samo P., Matúš M., Ondrej K.
 
 | Dátum | Aktuálny stav projektu |
 |---------|---------|
-| ...| ...|
+| 10.9.2025 | prototyp mechanizmu, ktorý odstraňuje zlé bloky |
 | ... | ... |
 
 </details>  
@@ -40,7 +40,7 @@ Michal O., Matej P.
 
 | Dátum | Aktuálny stav projektu |
 |---------|---------|
-| ...| ...|
+| 10.9.2025 | Premýšľanie nad navrhom robota a priprava prostredia pre programovanie. |
 | ... | ... |
 
 </details>  
@@ -54,7 +54,7 @@ Timur M., Marek M., Dušan Š., Patrik K.
 
 | Dátum | Aktuálny stav projektu |
 |---------|---------|
-| ...| ...|
+| 10.9.2025 | Tak teda dnes sme začali navrhovať ukladali priestor. |
 | ... | ... |
 
 </details>  
