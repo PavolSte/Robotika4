@@ -43,7 +43,7 @@ Olbert Michal, Papučík Matej
 <details>
 <summary><h1>Skupina č. 4 - Modul 4</h1></summary>
 
-Meno Priezvisko, Meno Priezvisko, Meno Priezvisko...
+Málik Timur, Monček Marek, Štancel Dušan, Kuric Patrik
 
 | Dátum | Aktuálny stav projektu |
 |---------|---------|
