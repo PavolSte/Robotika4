@@ -1,3 +1,10 @@
+**Každý týždeň poslať Na Edupage pošlite správu za každý modul o aktuálnom progrese:**  
+
+Modul [cislo]
+....popísať progres na dnešnej hodine..
+
+
+
 <details>
 <summary><h1>Skupina č. 1 - Modul 1</h1></summary>
 
