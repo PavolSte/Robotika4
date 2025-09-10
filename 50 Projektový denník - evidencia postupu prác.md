@@ -29,7 +29,7 @@ Polkoráb Samo, Michel Matúš, Kutlik Ondrej
 <details>
 <summary><h1>Skupina č. 3 - Modul 3</h1></summary>
 
-Meno Priezvisko, Meno Priezvisko, Meno Priezvisko...
+Olbert Michal, Papučík Matej
 
 | Dátum | Aktuálny stav projektu |
 |---------|---------|
