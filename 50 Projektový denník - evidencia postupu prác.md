@@ -1,7 +1,7 @@
 <details>
 <summary><h1>Skupina č. 1 - Modul 1</h1></summary>
 
-Púček Ľubomír, Švejda Adam Ladislav, Čimbora Jakub, Holánik Martin Darius  
+Ľubomír P., Adam Ladislav A. Š., Jakub Č., Martin Darius M. H.  
 
 | Dátum | Aktuálny stav projektu |
 |---------|---------|
@@ -15,7 +15,7 @@ Púček Ľubomír, Švejda Adam Ladislav, Čimbora Jakub, Holánik Martin Darius
 <details>
 <summary><h1>Skupina č. 2 - Modul 2</h1></summary>
 
-Polkoráb Samo, Michel Matúš, Kutlik Ondrej
+Samo P., Matúš M., Ondrej K.
 
 | Dátum | Aktuálny stav projektu |
 |---------|---------|
@@ -29,7 +29,7 @@ Polkoráb Samo, Michel Matúš, Kutlik Ondrej
 <details>
 <summary><h1>Skupina č. 3 - Modul 3</h1></summary>
 
-Olbert Michal, Papučík Matej
+Michal O., Matej P.
 
 | Dátum | Aktuálny stav projektu |
 |---------|---------|
@@ -43,7 +43,7 @@ Olbert Michal, Papučík Matej
 <details>
 <summary><h1>Skupina č. 4 - Modul 4</h1></summary>
 
-Málik Timur, Monček Marek, Štancel Dušan, Kuric Patrik
+Timur M., Marek M., Dušan Š., Patrik K.
 
 | Dátum | Aktuálny stav projektu |
 |---------|---------|
