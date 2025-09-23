@@ -13,8 +13,8 @@ Modul [cislo]
 | Dátum | Aktuálny stav projektu |
 |---------|---------|
 | 10.9.2025 | Dneska sme stiahli potrebné programy na naprogramovanie robota a ďalej pracovali na mechanickom návrhu robota.|
+| 17.9.2025 | Dneska sme našu skupinu rozdelili na dve "podskupiny", kedy sme dvaja robili na ruke robota, a dvaja na platforme ktorá bude ruku posúvať hore a dole. Ruku máme už skoro hotovú, na platforme sa ešte pracuje... |  
 | ... | ... |
-
 </details>  
 
 ---
@@ -27,6 +27,7 @@ Samo P., Matúš M., Ondrej K.
 | Dátum | Aktuálny stav projektu |
 |---------|---------|
 | 10.9.2025 | prototyp mechanizmu, ktorý odstraňuje zlé bloky |
+| 17.9.2025 | Brainstorming a komunikácia so skupinou 3 ohľadom posuvného pásu, a pripravenie programu studio |
 | ... | ... |
 
 </details>  
@@ -41,6 +42,8 @@ Michal O., Matej P.
 | Dátum | Aktuálny stav projektu |
 |---------|---------|
 | 10.9.2025 | Premýšľanie nad navrhom robota a priprava prostredia pre programovanie. |
+| 17.9.2025 | Dneska sme strehali papiere, komunikovali s ostatnými skupina, aby sme sa dohodli na spôsobe prepojenia modulov, ktoré sú susedné a robili prvé prototypy dopravného pásu.
+ |
 | ... | ... |
 
 </details>  
@@ -55,6 +58,7 @@ Timur M., Marek M., Dušan Š., Patrik K.
 | Dátum | Aktuálny stav projektu |
 |---------|---------|
 | 10.9.2025 | Tak teda dnes sme začali navrhovať ukladali priestor. |
+| 17.9.2025 | Postavili sme platformu, ktorá je univerzálna, dá sa pripojiť na ostatné moduly. Brainstormovali sme o spôsobe uchopenia kociek. |
 | ... | ... |
 
 </details>  
