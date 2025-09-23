@@ -42,8 +42,7 @@ Michal O., Matej P.
 | Dátum | Aktuálny stav projektu |
 |---------|---------|
 | 10.9.2025 | Premýšľanie nad navrhom robota a priprava prostredia pre programovanie. |
-| 17.9.2025 | Dneska sme strehali papiere, komunikovali s ostatnými skupina, aby sme sa dohodli na spôsobe prepojenia modulov, ktoré sú susedné a robili prvé prototypy dopravného pásu.
- |
+| 17.9.2025 | Dneska sme strehali papiere, komunikovali s ostatnými skupina, aby sme sa dohodli na spôsobe prepojenia modulov, ktoré sú susedné a robili prvé prototypy dopravného pásu. |
 | ... | ... |
 
 </details>  
