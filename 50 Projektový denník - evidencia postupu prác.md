@@ -61,7 +61,7 @@ Timur M., Marek M., Dušan Š., Patrik K.
 |---------|---------|
 | 10.9.2025 | Tak teda dnes sme začali navrhovať ukladali priestor. |
 | 17.9.2025 | Postavili sme platformu, ktorá je univerzálna, dá sa pripojiť na ostatné moduly. Brainstormovali sme o spôsobe uchopenia kociek. |
-| 24.9.2025 | ŽIADNY UPDATE |
+| 24.9.2025 | $${\color{red} -- CHÝBAJÚCI UPDATE -- }$$ |
 | ... | ... |
 
 </details>  
