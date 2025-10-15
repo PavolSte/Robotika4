@@ -17,7 +17,7 @@ Modul [cislo]
 | 24.9.2025 | Dneska sme úplne zmenili mechaniku našej stavebnice a skoro celú ju postavili, budeme ešte musieť riešiť drobné nedokonalosti a problémy ktoré sa vyskytli. |
 | 1.10.2025 | N/A - Prax |
 | 8.10.2025 | N/A - Prax |
-| 15.10.2025 |  |
+| 15.10.2025 | Dnes sme ďalej pracovali a vylepsovali mechaniku. Este budeme musiet poriesit nejake technicke nedokonalosti. |
 | ... | ... |
 </details>  
 
@@ -35,7 +35,7 @@ Samo P., Matúš M., Ondrej K.
 | 24.9.2025 | Dokončenie modulu a začanie pracovania na kóde. |
 | 1.10.2025 | N/A - Prax |
 | 8.10.2025 | N/A - Prax |
-| 15.10.2025 |  |
+| 15.10.2025 | Dokončenie kódu pre modul |
 | ... | ... |
 
 </details>  
@@ -54,7 +54,7 @@ Michal O., Matej P.
 | 24.9.2025 | Príprava základnej konštrukcie na vkladanie farieb |
 | 1.10.2025 | N/A - Prax |
 | 8.10.2025 | N/A - Prax |
-| 15.10.2025 |  |
+| 15.10.2025 | Triedili sme krabicu č. 6 a potom sme rozmýšľali nad návrhom zásobníkov a vyberača farieb zo zásobníkov. |
 
 | ... | ... |
 
@@ -71,10 +71,10 @@ Timur M., Marek M., Dušan Š., Patrik K.
 |---------|---------|
 | 10.9.2025 | Tak teda dnes sme začali navrhovať ukladali priestor. |
 | 17.9.2025 | Postavili sme platformu, ktorá je univerzálna, dá sa pripojiť na ostatné moduly. Brainstormovali sme o spôsobe uchopenia kociek. |
-| 24.9.2025 | $${\color{red} -- CHÝBAJÚCI UPDATE -- }$$ |
+| 24.9.2025 | $${\color{red} -- CHÝBAJÚCI UPDATE -- }$$ progres ešte z minulej hodiny. Začali sme skladať platformu na skenovanie farieb. |
 | 1.10.2025 | N/A - Prax |
 | 8.10.2025 | N/A - Prax |
-| 15.10.2025 |  |
+| 15.10.2025 | Dnes sme prisposobili vlastnú verziu pásu na spád dvoch farieb a pracujeme na mechanizme, ktorý umožní, aby kocky na seba padali bez prevrátenia. |
 | ... | ... |
 
 </details>  
