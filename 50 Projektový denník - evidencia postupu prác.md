@@ -55,7 +55,6 @@ Michal O., Matej P.
 | 1.10.2025 | N/A - Prax |
 | 8.10.2025 | N/A - Prax |
 | 15.10.2025 | Triedili sme krabicu č. 6 a potom sme rozmýšľali nad návrhom zásobníkov a vyberača farieb zo zásobníkov. |
-
 | ... | ... |
 
 </details>  
