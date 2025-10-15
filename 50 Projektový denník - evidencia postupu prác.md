@@ -17,6 +17,7 @@ Modul [cislo]
 | 24.9.2025 | Dneska sme úplne zmenili mechaniku našej stavebnice a skoro celú ju postavili, budeme ešte musieť riešiť drobné nedokonalosti a problémy ktoré sa vyskytli. |
 | 1.10.2025 | N/A - Prax |
 | 8.10.2025 | N/A - Prax |
+| 15.10.2025 |  |
 | ... | ... |
 </details>  
 
@@ -34,6 +35,7 @@ Samo P., Matúš M., Ondrej K.
 | 24.9.2025 | Dokončenie modulu a začanie pracovania na kóde. |
 | 1.10.2025 | N/A - Prax |
 | 8.10.2025 | N/A - Prax |
+| 15.10.2025 |  |
 | ... | ... |
 
 </details>  
@@ -52,6 +54,8 @@ Michal O., Matej P.
 | 24.9.2025 | Príprava základnej konštrukcie na vkladanie farieb |
 | 1.10.2025 | N/A - Prax |
 | 8.10.2025 | N/A - Prax |
+| 15.10.2025 |  |
+
 | ... | ... |
 
 </details>  
@@ -70,6 +74,7 @@ Timur M., Marek M., Dušan Š., Patrik K.
 | 24.9.2025 | $${\color{red} -- CHÝBAJÚCI UPDATE -- }$$ |
 | 1.10.2025 | N/A - Prax |
 | 8.10.2025 | N/A - Prax |
+| 15.10.2025 |  |
 | ... | ... |
 
 </details>  
