@@ -19,6 +19,7 @@ Modul [cislo]
 | 8.10.2025 | N/A - Prax |
 | 15.10.2025 | Dnes sme ďalej pracovali a vylepsovali mechaniku. Este budeme musiet poriesit nejake technicke nedokonalosti. |
 | 22.10.2025 | Dnes, naša skupina vytvorila rameno na zdvíhanie blokov. |
+| 29.10.2025 | Dneska sme dokoncili fyzicku stavbu, zacali sme pracovat na programovani, ktore ide zatial dobre. Dalej sme zacali pracovat v brick studiu. |
 | ... | ... |
 </details>  
 
@@ -38,6 +39,7 @@ Samo P., Matúš M., Ondrej K.
 | 8.10.2025 | N/A - Prax |
 | 15.10.2025 | Dokončenie kódu pre modul |
 | 22.10.2025 | Úprava posuvného pásu |
+| 29.10.2025 | ... |
 | ... | ... |
 
 </details>  
@@ -58,6 +60,7 @@ Michal O., Matej P.
 | 8.10.2025 | N/A - Prax |
 | 15.10.2025 | Triedili sme krabicu č. 6 a potom sme rozmýšľali nad návrhom zásobníkov a vyberača farieb zo zásobníkov. |
 | 22.10.2025 | .... |
+| 29.10.2025 | ... |
 | ... | ... |
 
 </details>  
@@ -78,6 +81,7 @@ Timur M., Marek M., Dušan Š., Patrik K.
 | 8.10.2025 | N/A - Prax |
 | 15.10.2025 | Dnes sme prisposobili vlastnú verziu pásu na spád dvoch farieb a pracujeme na mechanizme, ktorý umožní, aby kocky na seba padali bez prevrátenia. |
 | 22.10.2025 | .... |
+| 29.10.2025 | Programovali sme pohyb motora, vymyslenie zarovnávania kociek. |
 | ... | ... |
 
 </details>  
