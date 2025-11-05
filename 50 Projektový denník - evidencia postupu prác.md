@@ -39,7 +39,7 @@ Samo P., Matúš M., Ondrej K.
 | 8.10.2025 | N/A - Prax |
 | 15.10.2025 | Dokončenie kódu pre modul |
 | 22.10.2025 | Úprava posuvného pásu |
-| 29.10.2025 | ... |
+| 29.10.2025 | finalizácia mechanickej časti |
 | ... | ... |
 
 </details>  
