@@ -7,7 +7,7 @@ Každá skupina odovzdá nasledovné výstupy pre konkrétny robotický modul:
 |---------|---------|---------|
 | **Technická správa** <br> Dokumentácia v rozsahu 2 až 6 strán textu vrátane <br> obrázkov, obsahujúcu diagramy a schémy, prípadne fotografie| natívny formát + PDF verzia| 2 súbory|
 | **Prezentácia** <br> Rozsah minimálne 6 minút, maximálne 8 minút, plus 2 minúty na konci na otázky a odpovede| natívny formát + PDF verzia| 2 súbory|
-| **Návod na zostavenie robota - nepovinné**| .io + PDF verzia| 2 súbory|
 | **Zdrojový kód funkčného robota**| .llsp3 + PDF verzia| 2 súbory|
 | **Video zobrazujúce funkčný modul**| .mp4 alebo iný štandardný video formát| 1 súbor|
 | **Funkčný fyzický prototyp robota** | k nahliadnutiu počas prezentácie | N/A |
+| **Návod na zostavenie robota - nepovinné**| .io + PDF verzia| 2 súbory|
