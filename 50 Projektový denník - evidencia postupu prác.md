@@ -21,6 +21,7 @@ Modul [cislo]
 | 22.10.2025 | Dnes, naša skupina vytvorila rameno na zdvíhanie blokov. |
 | 29.10.2025 | Dneska sme dokoncili fyzicku stavbu, zacali sme pracovat na programovani, ktore ide zatial dobre. Dalej sme zacali pracovat v brick studiu. |
 | ... | ... |
+| 3.12.2025 | spájanie modulov do jedného celku |
 </details>  
 
 ---
