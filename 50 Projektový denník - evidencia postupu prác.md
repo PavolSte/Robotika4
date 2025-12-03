@@ -41,6 +41,7 @@ Samo P., Matúš M., Ondrej K.
 | 22.10.2025 | Úprava posuvného pásu |
 | 29.10.2025 | finalizácia mechanickej časti |
 | ... | ... |
+| 3.12.2025 | spájanie modulov do jedného celku |
 
 </details>  
 
@@ -62,6 +63,7 @@ Michal O., Matej P.
 | 22.10.2025 | .... |
 | 29.10.2025 | ... |
 | ... | ... |
+| 3.12.2025 | spájanie modulov do jedného celku |
 
 </details>  
 
@@ -83,6 +85,7 @@ Timur M., Marek M., Dušan Š., Patrik K.
 | 22.10.2025 | .... |
 | 29.10.2025 | Programovali sme pohyb motora, vymyslenie zarovnávania kociek. |
 | ... | ... |
+| 3.12.2025 | spájanie modulov do jedného celku |
 
 </details>  
 
